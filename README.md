@@ -7,7 +7,6 @@ A curated collection of essential Docker images for backend development, testing
 
 | Service | Image | Description | Links |
 | :--- | :--- | :--- | :--- |
-
 | **PostgreSQL** | `postgres:alpine` | The world's most advanced open source relational database. The `alpine` tag is lightweight. | [Docs](https://www.postgresql.org/docs/) • [Docker Hub](https://hub.docker.com/_/postgres) |
 | **Redis** | `redis:alpine` | In-memory data structure store, used as a database, cache, and message broker. | [Docs](https://redis.io/documentation) • [Docker Hub](https://hub.docker.com/_/redis) |
 
