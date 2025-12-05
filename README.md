@@ -54,5 +54,6 @@ A curated collection of essential Docker images and tools for backend developmen
 | Service | Description | Links |
 | :--- | :--- | :--- |
 | **Excalidraw** | Virtual whiteboard with a hand-drawn feel. Excellent for creating quick system architecture diagrams and flowcharts. | [App](https://excalidraw.com/) |
+| **Mermaid Live** | Diagramming and charting tool that uses text definitions. Great for version-controllable diagrams (Flowcharts, Sequence, Gantt). | [App](https://mermaid.live/) • [Docs](https://mermaid.js.org/) |
 | **JWT.io** | The standard tool to decode, verify and generate JWTs (JSON Web Tokens). Essential for debugging authentication. | [App](https://jwt.io/) |
 | **Crontab Guru** | A quick and simple editor for cron schedule expressions. Helps you verify exactly when your scheduled tasks will run. | [App](https://crontab.guru/) |
