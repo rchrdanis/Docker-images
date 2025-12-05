@@ -1,7 +1,6 @@
-Markdown
 # 🐳 Useful Docker Images & Tools for Local Development
 
-A curated collection of essential Docker images for backend development, testing, and observability.
+A curated collection of essential Docker images and tools for backend development, testing, and observability.
 
 ## 🛠️ Dev Tools & Databases
 
@@ -42,7 +41,7 @@ A curated collection of essential Docker images for backend development, testing
 | :--- | :--- | :--- | :--- |
 | **Zipkin** | `openzipkin/zipkin` | Distributed tracing system. Helps gather timing data to troubleshoot latency in microservices. | [Docs](https://zipkin.io/) • [Docker Hub](https://hub.docker.com/r/openzipkin/zipkin) |
 
-# 📧 Email & Notifications
+## 📧 Email & Notifications
 
 | Service | Image | Description | Links |
 | :--- | :--- | :--- | :--- |
@@ -50,8 +49,10 @@ A curated collection of essential Docker images for backend development, testing
 
 ---
 
-## 🖍️ Diagramming & Visualization (Web Tools)
+## 🌐 Useful Web Tools (No Docker required)
 
 | Service | Description | Links |
 | :--- | :--- | :--- |
-| **Excalidraw** | Virtual whiteboard with a hand-drawn feel. Excellent for creating quick system architecture diagrams, flowcharts, and collaborative design sessions. | [App](https://excalidraw.com/) • [GitHub](https://github.com/excalidraw/excalidraw) |
+| **Excalidraw** | Virtual whiteboard with a hand-drawn feel. Excellent for creating quick system architecture diagrams and flowcharts. | [App](https://excalidraw.com/) |
+| **JWT.io** | The standard tool to decode, verify and generate JWTs (JSON Web Tokens). Essential for debugging authentication. | [App](https://jwt.io/) |
+| **Crontab Guru** | A quick and simple editor for cron schedule expressions. Helps you verify exactly when your scheduled tasks will run. | [App](https://crontab.guru/) |
