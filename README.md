@@ -1,5 +1,5 @@
 Markdown
-# 🐳 Useful Docker Images for Local Development
+# 🐳 Useful Docker Images & Tools for Local Development
 
 A curated collection of essential Docker images for backend development, testing, and observability.
 
@@ -49,3 +49,9 @@ A curated collection of essential Docker images for backend development, testing
 | **Mailpit** | `axllent/mailpit` | An SMTP testing tool for developers. Captures emails sent by your app so they don't go to real users. (Modern replacement for MailHog). | [GitHub](https://github.com/axllent/mailpit) • [Docker Hub](https://hub.docker.com/r/axllent/mailpit) |
 
 ---
+
+## 🖍️ Diagramming & Visualization (Web Tools)
+
+| Service | Description | Links |
+| :--- | :--- | :--- |
+| **Excalidraw** | Virtual whiteboard with a hand-drawn feel. Excellent for creating quick system architecture diagrams, flowcharts, and collaborative design sessions. | [App](https://excalidraw.com/) • [GitHub](https://github.com/excalidraw/excalidraw) |
